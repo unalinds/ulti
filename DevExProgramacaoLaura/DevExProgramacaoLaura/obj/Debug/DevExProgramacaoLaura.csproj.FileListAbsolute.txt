@@ -1,0 +1,14 @@
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\bin\Debug\DevExProgramacaoLaura.exe.config
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\bin\Debug\DevExProgramacaoLaura.exe
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\bin\Debug\DevExProgramacaoLaura.pdb
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.csprojResolveAssemblyReference.cache
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.JuridicalP.resources
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.Main.resources
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.NaturalP.resources
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.Properties.Resources.resources
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.csproj.GenerateResource.Cache
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.exe
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.pdb
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura - Copia\DevExProgramacaoLaura\bin\Debug\DevExProgramacaoLaura.exe.config
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura - Copia\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.exe
+C:\Users\laura.campos\Desktop\Exercicios\Programação\DevExProgramacaoLaura - Copia\DevExProgramacaoLaura\obj\Debug\DevExProgramacaoLaura.pdb
